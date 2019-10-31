@@ -1,0 +1,1 @@
+Nuovo file messo dentro dentro la cartella clonata da git che voglio andare ad aggiungere.
